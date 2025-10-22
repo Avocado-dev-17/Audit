@@ -6,7 +6,7 @@
 
 1. Установите Python 3 (Tkinter входит в стандартную библиотеку).
 2. Установите зависимости из `requirements.txt`:
-```pip install -r requirements.txt```
+bash```pip install -r requirements.txt```
 
 ## Запуск
 
@@ -73,3 +73,4 @@ python main.py
 3. Для Linux: Используйте PNG напрямую.
 
 4. Поместите файлы `audit.ico` (Windows) или `audit.png` (Linux) в папку с `main.py`.
+

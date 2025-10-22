@@ -6,7 +6,7 @@
 
 1. Установите Python 3 (Tkinter входит в стандартную библиотеку).
 2. Установите зависимости из `requirements.txt`:
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Запуск
 
@@ -71,4 +71,5 @@ python main.py
 1. Создайте изображение (например, в PNG) с помощью графического редактора.
 2. Для Windows: Конвертируйте PNG в ICO с помощью онлайн-конвертеров (например, `convertio.co`) или инструментов вроде ImageMagick.
 3. Для Linux: Используйте PNG напрямую.
+
 4. Поместите файлы `audit.ico` (Windows) или `audit.png` (Linux) в папку с `main.py`.
